@@ -1,0 +1,3 @@
+	freopen("input.txt","r", stdin); //input.txt
+	freopen("output.txt","w", stdout); //output.txt
+	
